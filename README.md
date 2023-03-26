@@ -2,6 +2,8 @@
 Python based GUI to help identify data points from a data set consisting of step-like increments or decrements. Especially useful for analysing data of measurements in eperimental setups that yield different average values at different times. For example,
 
 <img src = https://user-images.githubusercontent.com/90126164/227775595-101dc4a7-e120-4cf1-87e4-d5854fcb026e.png width ="400" height = "200">
+# Dependencies
+`python3`,`matplotlib`,`scipy`,`numpy`. `pandas`
 
 # Usage
 
